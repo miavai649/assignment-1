@@ -21,8 +21,11 @@
     color: aliceblue;
 }
 #banner-items p{
-    margin: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     color: aquamarine;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 .btn-link{
     text-decoration: none;
