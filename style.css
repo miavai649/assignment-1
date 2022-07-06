@@ -149,3 +149,37 @@
     border-radius: 20px;
     margin: 15px;
 }
+.subscription-sect{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    font-size: 20px;
+}
+.subs-sect-heading{
+    font-size: 40px;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.subs-sect-bottom{
+    height: 150px;
+    width: 700px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    background-color: lightskyblue;
+}
+.subs-sect-bottom input{
+    padding: 10px 70px;
+    text-align: start;
+    background-color: lightgrey;
+}
+#subs-button{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: lightcoral;
+    color: azure;
+}
