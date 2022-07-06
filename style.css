@@ -122,3 +122,30 @@
 #shelt-card{
     background-color: lightsteelblue;
 }
+.logo img{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+.quick-donate-sect{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 100%;
+    border: 1px solid black;
+}
+.quick-link {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}
+
+.quick-btn {
+    padding: 15px 20px;
+    background-color: darkgrey;
+    font-size: 15px;
+    border-radius: 20px;
+    margin: 15px;
+}
